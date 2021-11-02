@@ -64,6 +64,8 @@ $ python3
 123456789
 ```
 
+**Method 4:** If previous methods fail (e.g., returns empty array for messages) you can invite `@raw_data_bot` bot to your group and on joining it will output `chat_id`.
+
 <div class='note'>
 If you want to add new chat IDs then you will need to disable the active configuration to actually see the result with the IDs, otherwise you may only get empty results array.
 </div>
